@@ -8,4 +8,4 @@ Hope you enjoyed the repo.
 
 Disclaimer : If this clone is used for any type of fishing work then developer are not responsible for any kind of privacy breach.
 
-Note : This is the development build included with package.json using which we have to 
+Note : This is the development build included with package.json using which we have to install all the node modules using npm install command.
